@@ -11,6 +11,7 @@ namespace HelloWorld
             Console.WriteLine("Hello");
             Console.WriteLine("HI");
             Console.WriteLine("Adding newline in practisebranch");
+            Console.WriteLine("performing merge command");
         }
     }
 }
