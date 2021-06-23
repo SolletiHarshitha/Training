@@ -13,6 +13,7 @@ namespace HelloWorld
             Console.WriteLine("Adding newline in practisebranch");
             Console.WriteLine("performing merge command");
             Console.WriteLine("Modifing in local for conflict");
+            Console.WriteLine("creating conflicts by modifying in remote and local");
         }
     }
 }
