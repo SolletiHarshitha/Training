@@ -12,6 +12,7 @@ namespace HelloWorld
             Console.WriteLine("HI");
             Console.WriteLine("Adding newline in practisebranch");
             Console.WriteLine("performing merge command");
+            Console.WriteLine("latest code from remote area");
         }
     }
 }
